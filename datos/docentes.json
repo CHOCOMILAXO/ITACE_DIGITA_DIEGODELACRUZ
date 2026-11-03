@@ -1,0 +1,375 @@
+[
+    {
+        "nombre": "Diana Janeth Uriegas Garza",
+        "area": "Oratoria",
+        "materias": [
+            "Habilidades para hablar en público",
+            "Matemáticas básicas"
+        ],
+        "grados": [
+            "1.º",
+            "3.º",
+            "5.º"
+        ],
+        "titulos": "Licenciatura en Administración, Instituto Tecnológico de Reynosa",
+        "antiguedad": "",
+        "nota": "",
+        "foto": "img/docentes/docente-01.jpg"
+    },
+    {
+        "nombre": "José Luis González López",
+        "area": "Semiconductores",
+        "materias": [
+            "Pensamiento Matemático III"
+        ],
+        "grados": [
+            "3.º"
+        ],
+        "titulos": "",
+        "antiguedad": "",
+        "nota": "",
+        "foto": "img/docentes/docente-02.jpg"
+    },
+    {
+        "nombre": "Javier Alfonso Acosta García",
+        "area": "Mantenimiento automotriz",
+        "materias": [
+            "Módulo de Mantenimiento Automotriz"
+        ],
+        "grados": [
+            "3.º",
+            "5.º"
+        ],
+        "titulos": "Ingeniería Electromecánica y maestría en Ingeniería Industrial y Manufactura Avanzada",
+        "antiguedad": "",
+        "nota": "",
+        "foto": "img/docentes/docente-03.jpg"
+    },
+    {
+        "nombre": "Mario Alonso Santoyo Arroyo",
+        "area": "Mantenimiento industrial",
+        "materias": [
+            "Módulo Profesional de Mantenimiento Industrial II y IV"
+        ],
+        "grados": [
+            "3.º",
+            "5.º"
+        ],
+        "titulos": "Carrera técnica en Refrigeración y Climatización, Ingeniería Industrial y maestría en Educación",
+        "antiguedad": "",
+        "nota": "",
+        "foto": "img/docentes/docente-04.jpg"
+    },
+    {
+        "nombre": "Erika Aidé Pérez Abrego",
+        "area": "Ciencias naturales y Humanidades",
+        "materias": [
+            "Ciencias naturales",
+            "Humanidades"
+        ],
+        "grados": [
+            "3.º",
+            "5.º"
+        ],
+        "titulos": "Ingeniería Industrial y de Sistemas y maestría en Educación",
+        "antiguedad": "",
+        "nota": "",
+        "foto": "img/docentes/docente-05.jpg"
+    },
+    {
+        "nombre": "Benjamín Limón Martínez",
+        "area": "Programación e Informática",
+        "materias": [
+            "Programación (5.º)",
+            "Inteligencia Artificial (3.º)",
+            "Cultura Digital (1.º)"
+        ],
+        "grados": [
+            "1.º",
+            "3.º",
+            "5.º"
+        ],
+        "titulos": "Informática en Sistemas",
+        "antiguedad": "",
+        "nota": "",
+        "foto": "img/docentes/docente-06.jpg"
+    },
+    {
+        "nombre": "Laura Esmeralda Heredia Blanco",
+        "area": "Ciencias naturales",
+        "materias": [
+            "Ciencias I, III y V"
+        ],
+        "grados": [
+            "1.º",
+            "3.º",
+            "5.º"
+        ],
+        "titulos": "Biología, con especialización en Física y Química",
+        "antiguedad": "",
+        "nota": "",
+        "foto": "img/docentes/docente-07.jpg"
+    },
+    {
+        "nombre": "Felipe Hernández González",
+        "area": "Electrónica y Semiconductores",
+        "materias": [
+            "Módulo de Electrónica",
+            "Módulo de Semiconductores"
+        ],
+        "grados": [
+            "3.º",
+            "5.º"
+        ],
+        "titulos": "Ingeniería en Electrónica",
+        "antiguedad": "",
+        "nota": "",
+        "foto": "img/docentes/docente-08.jpg"
+    },
+    {
+        "nombre": "Erik Ramírez Solís",
+        "area": "Pensamiento matemático",
+        "materias": [
+            "Pensamiento matemático"
+        ],
+        "grados": [
+            "1.º",
+            "3.º",
+            "5.º"
+        ],
+        "titulos": "Licenciatura en Electromecánica y maestría en Educación",
+        "antiguedad": "21 años",
+        "nota": "",
+        "foto": "img/docentes/docente-09.jpg"
+    },
+    {
+        "nombre": "Mildred Yasmín Reyes Norberto",
+        "area": "Matemáticas",
+        "materias": [
+            "Temas Selectos de Matemáticas II"
+        ],
+        "grados": [
+            "5.º"
+        ],
+        "titulos": "Ingeniería Química y maestría en Docencia",
+        "antiguedad": "",
+        "nota": "",
+        "foto": "img/docentes/docente-10.jpg"
+    },
+    {
+        "nombre": "Luis Enrique Lerma Martínez",
+        "area": "Mantenimiento petrolero e industrial",
+        "materias": [
+            "Lengua y Comunicación I y III",
+            "Conciencia Histórica II"
+        ],
+        "grados": [
+            "1.º",
+            "3.º",
+            "5.º"
+        ],
+        "titulos": "Ingeniería Petrolera, licenciatura en Docencia y diplomado en Competencias Docentes",
+        "antiguedad": "",
+        "nota": "",
+        "foto": "img/docentes/docente-11.jpg"
+    },
+    {
+        "nombre": "Yuridia Lizbeth Cepeda Ramos",
+        "area": "Inglés y Matemáticas",
+        "materias": [
+            "Inglés",
+            "Temas Selectos de Matemáticas II"
+        ],
+        "grados": [],
+        "titulos": "Ingeniería Industrial, licenciatura en Matemáticas, maestría en Educación e Innovación Educativa; cursa doctorado en Educación",
+        "antiguedad": "",
+        "nota": "",
+        "foto": "img/docentes/docente-12.jpg"
+    },
+    {
+        "nombre": "Juan Pablo Torres Adame",
+        "area": "Programación",
+        "materias": [
+            "Programación",
+            "Cultura Digital"
+        ],
+        "grados": [
+            "1.º",
+            "3.º",
+            "5.º"
+        ],
+        "titulos": "Licenciatura en Informática Administrativa y maestría en Ciencias de la Enseñanza",
+        "antiguedad": "",
+        "nota": "",
+        "foto": "img/docentes/docente-13.jpg"
+    },
+    {
+        "nombre": "Romualdo Guadalupe de la Cruz",
+        "area": "Pensamiento matemático",
+        "materias": [
+            "Pensamiento Matemático I y III"
+        ],
+        "grados": [
+            "1.º",
+            "3.º"
+        ],
+        "titulos": "Mantenimiento Industrial y Mantenimiento en Instalaciones Petroleras",
+        "antiguedad": "",
+        "nota": "",
+        "foto": "img/docentes/docente-14.jpg"
+    },
+    {
+        "nombre": "Nohemí Quintanilla Arcos",
+        "area": "",
+        "materias": [],
+        "grados": [],
+        "titulos": "",
+        "antiguedad": "",
+        "nota": "",
+        "foto": "img/docentes/docente-15.jpg"
+    },
+    {
+        "nombre": "Liliana Rosas Pacheco",
+        "area": "Humanidades y Comunicación",
+        "materias": [
+            "Conciencia Histórica",
+            "Formación Socioemocional",
+            "Lengua y Comunicación",
+            "Pensamiento Filosófico en Humanidades"
+        ],
+        "grados": [
+            "1.º",
+            "5.º"
+        ],
+        "titulos": "Licenciatura en Pedagogía, maestría en Docencia y doctorado en Educación",
+        "antiguedad": "",
+        "nota": "",
+        "foto": "img/docentes/docente-16.jpg"
+    },
+    {
+        "nombre": "Ulises Solís Rieboles",
+        "area": "Ciencias naturales",
+        "materias": [
+            "Ciencias Naturales I, III y V"
+        ],
+        "grados": [
+            "1.º",
+            "3.º",
+            "5.º"
+        ],
+        "titulos": "Químico Farmacéutico Biólogo; maestrías en Análisis Clínicos y Educación; cursa doctorado en Educación",
+        "antiguedad": "",
+        "nota": "",
+        "foto": "img/docentes/docente-17.jpg"
+    },
+    {
+        "nombre": "Bertha Alicia Zapata Aldape",
+        "area": "Matemáticas",
+        "materias": [],
+        "grados": [
+            "1.º",
+            "3.º"
+        ],
+        "titulos": "Doctorado",
+        "antiguedad": "2 años y medio",
+        "nota": "",
+        "foto": "img/docentes/docente-18.jpg"
+    },
+    {
+        "nombre": "Grecia Ávalos Ramos",
+        "area": "Lengua y Comunicación",
+        "materias": [],
+        "grados": [
+            "1.º",
+            "3.º"
+        ],
+        "titulos": "Licenciatura y maestría",
+        "antiguedad": "3 años",
+        "nota": "",
+        "foto": "img/docentes/docente-19.jpg"
+    },
+    {
+        "nombre": "Sandra Catalina Silva Camacho",
+        "area": "Comunicación",
+        "materias": [],
+        "grados": [
+            "5.º"
+        ],
+        "titulos": "Maestría en Metodología de la Enseñanza",
+        "antiguedad": "25 años",
+        "nota": "",
+        "foto": "img/docentes/docente-20.jpg"
+    },
+    {
+        "nombre": "Carla Valeria Morán Lerma",
+        "area": "Pensamiento filosófico, Ciencias sociales y Cultura digital",
+        "materias": [],
+        "grados": [
+            "1.º",
+            "3.º"
+        ],
+        "titulos": "Maestría",
+        "antiguedad": "33 años",
+        "nota": "",
+        "foto": "img/docentes/docente-21.jpg"
+    },
+    {
+        "nombre": "Norma Elena Torres Quiñones",
+        "area": "Ciencias naturales e IT",
+        "materias": [],
+        "grados": [
+            "1.º",
+            "3.º",
+            "5.º"
+        ],
+        "titulos": "Ingeniería Química y maestría en Docencia",
+        "antiguedad": "26 años",
+        "nota": "",
+        "foto": "img/docentes/docente-22.jpg"
+    },
+    {
+        "nombre": "Brenda Itzel Herrera García",
+        "area": "Informática",
+        "materias": [
+            "Cultura Digital",
+            "Inteligencia Artificial"
+        ],
+        "grados": [
+            "1.º",
+            "3.º"
+        ],
+        "titulos": "Técnica en Informática, Ingeniería en Sistemas Computacionales y maestría en Educación",
+        "antiguedad": "4 años",
+        "nota": "",
+        "foto": "img/docentes/docente-23.jpg"
+    },
+    {
+        "nombre": "Walter Allan Barrera Cerda",
+        "area": "Comunicación",
+        "materias": [
+            "Inglés III",
+            "Rondalla (club)"
+        ],
+        "grados": [
+            "1.º",
+            "2.º",
+            "3.º"
+        ],
+        "titulos": "Ingeniería Industrial y Administración",
+        "antiguedad": "13 años",
+        "nota": "",
+        "foto": "img/docentes/docente-24.jpg"
+    },
+    {
+        "nombre": "Isidro de León Flores",
+        "area": "Club premilitar",
+        "materias": [
+            "Club premilitar"
+        ],
+        "grados": [],
+        "titulos": "",
+        "antiguedad": "",
+        "nota": "",
+        "foto": "img/docentes/docente-25.jpg"
+    }
+]
